@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.deathcode.abot",
+    "sha256_cert_fingerprints":
+    ["CB:3B:63:23:99:04:24:0C:DA:0B:87:3F:E7:92:F4:FF:88:2E:B8:1F:0C:B5:F1:DC:7B:58:EA:05:0E:79:82:E5"]
+  }
+}]
